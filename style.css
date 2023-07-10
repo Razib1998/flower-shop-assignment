@@ -1,0 +1,160 @@
+.main-section{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding-top: 25px;
+    }
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.title{
+color: #272727;
+font-family: Lato;
+font-size: 70px;
+font-weight: 800;
+
+}
+.main-section-info{
+    margin-left: 50px;
+    padding-top: 35px;
+    margin-left: 80px;
+   
+}
+.main-section-image{
+    margin-right: 15px;
+    padding-top: 30px;
+}
+.discription{
+    margin-top: 10px;
+    
+    color: rgba(39, 39, 39, 0.60);
+   font-family: Lato;
+   font-size: 18px;
+   font-weight: 400;
+
+
+}
+.btn{
+    width: 90px;
+    height: 40px;
+    border-radius: 8px;
+    background: #E55473;
+}
+.img{
+    width: 200px;
+    
+
+}
+.feature-flower-section{
+    text-align: center;
+    margin-top: 90px;
+    align-items: center;
+   
+}
+.heading{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+padding: 20px 10px 0px 160px;
+
+
+
+
+}
+.h-info{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 19px;
+font-weight: 400;
+margin-top: 10px;
+padding-left: 180px;
+
+}
+.pink{
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 250px;
+    padding: 50px 50px 2px 50px;
+    
+
+}
+.pink1{
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 370px;
+    height: 370px;
+    padding: 10px 10px 20px 10px;
+   
+}
+  .pink2{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+padding: 10px 10px 20px 10px;
+
+  }
+    
+   .img1{
+    width: 210px;
+    height: 350px ;
+    background: rgba(71, 125, 17, 0.15);
+
+   }
+   .img2{
+    width: 200px;
+    height: 250px;
+   }
+   .img3{
+    width: 200px;
+    height: 200px;
+
+   }
+   .offer-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: darksalmon;
+    margin-top: 50px;
+    
+    
+    
+
+   }
+   .offer-heading{
+color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-weight: 700;
+
+   }
+   .offer-discription{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 300;
+margin-top: 25px;
+
+   }
+   .btn-bg{
+    border-radius: 5px;
+   background:tomato; 
+   margin-top: 30px ;
+   border: none;
+   width: 90px;
+   height: 40px;
+   margin-left: 210px;
+  
+
+   }
+   .offer-img{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    
+
+
+   }
