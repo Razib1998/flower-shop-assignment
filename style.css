@@ -74,30 +74,8 @@ margin-top: 10px;
 padding-left: 180px;
 
 }
-.pink{
-    border-radius: 200px 200px 0px 0px;
-    background: rgba(167, 33, 98, 0.15);
-    width: 250px;
-    padding: 50px 50px 2px 50px;
-    
-
-}
-.pink1{
-    border-radius: 200px 200px 0px 0px;
-    background: rgba(5, 151, 160, 0.15);
-    width: 370px;
-    height: 370px;
-    padding: 10px 10px 20px 10px;
-   
-}
-  .pink2{
-    border-radius: 300px 300px 0px 0px;
-background: rgba(71, 125, 17, 0.15);
-padding: 10px 10px 20px 10px;
-
-  }
-    
-   .img1{
+  
+.img1{
     width: 210px;
     height: 350px ;
     background: rgba(71, 125, 17, 0.15);
@@ -110,8 +88,15 @@ padding: 10px 10px 20px 10px;
    .img3{
     width: 200px;
     height: 200px;
+ }
+    
+    
 
-   }
+
+
+    
+  
+
    .offer-section{
     display: flex;
     justify-content: space-around;
@@ -228,8 +213,40 @@ font-weight: 400;;
   background-color: #E55473;
 
  }
-  
- 
- 
+ footer{
+    text-align: center;
+    margin-top: 80px;
+    background-color: black;
+ }
+ .footer-heading{
+margin-bottom: 20px;
+font-family: Lato;
+font-size: 48px;
+font-weight: 800;
+color: white;
+
+ }
+  span{
+    color: red;
+  }
+ .details{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+
+
+ }
+ .copy{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 10px;
+ }
 
  
